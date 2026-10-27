@@ -1,0 +1,1 @@
+This temporary file triggers the workflow that extracts FabLab Explorer into the repository root.
