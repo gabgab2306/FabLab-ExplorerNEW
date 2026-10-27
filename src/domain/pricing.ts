@@ -1,0 +1,3 @@
+export type PriceStatus='estimated'|'queried'|'historical'|'unavailable'|'out-of-stock'|'unknown-availability';
+export function lineSubtotal(quantity:number,unitPrice:number):number {if(!Number.isFinite(quantity)||!Number.isFinite(unitPrice)||quantity<0||unitPrice<0)throw new Error('Cantidad y precio deben ser números no negativos.');return Math.round(quantity*unitPrice*100)/100;}
+export function budgetTotal(components:number,shipping:number,tax:number,other:number):number {const values=[components,shipping,tax,other];if(values.some(v=>!Number.isFinite(v)||v<0))throw new Error('Los importes deben ser números no negativos.');return Math.round(values.reduce((a,b)=>a+b,0)*100)/100;}

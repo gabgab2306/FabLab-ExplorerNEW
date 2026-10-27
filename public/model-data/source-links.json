@@ -1,0 +1,7 @@
+[
+ {"name":"Humphrey2 large-format router CNC","url":"https://github.com/Fabricatable-Machines/Humphrey2","formats":["FreeCAD","STEP","BOM"],"status":"External source link; files not downloaded into this package"},
+ {"name":"CNC4060","url":"https://github.com/Shkolik/CNC4060","formats":["FreeCAD CAD","documentation"],"status":"External source link; files not downloaded into this package"},
+ {"name":"AltMill open source","url":"https://resources.sienci.com/view/am-open-source/","formats":["Onshape CAD","STEP","IGES","DWG/DXF where available"],"status":"External official source link"},
+ {"name":"LongMill MK3 open source","url":"https://resources.sienci.com/view/lmk3-open-source/","formats":["Onshape CAD","STEP","IGES","DWG/DXF where available"],"status":"External official source link"},
+ {"name":"CNC 3018 CAD reference","url":"https://www.shanhu3d.com/model/10590631","formats":["CAD download subject to site access"],"status":"External source link"}
+]

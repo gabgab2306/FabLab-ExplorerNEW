@@ -1,0 +1,101 @@
+[
+  {
+    "id": "cnc-3018",
+    "file": "cnc-3018.glb",
+    "x_mm_model_bounds": 380.0,
+    "y_mm_model_bounds": 300.0,
+    "z_mm_model_bounds": 234.21,
+    "mesh_geometries": 284,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "cnc-4040",
+    "file": "cnc-4040.glb",
+    "x_mm_model_bounds": 500.0,
+    "y_mm_model_bounds": 450.0,
+    "z_mm_model_bounds": 270.21,
+    "mesh_geometries": 282,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "cnc-4axis",
+    "file": "cnc-4axis.glb",
+    "x_mm_model_bounds": 540.0,
+    "y_mm_model_bounds": 420.0,
+    "z_mm_model_bounds": 270.21,
+    "mesh_geometries": 289,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "cnc-5axis",
+    "file": "cnc-5axis.glb",
+    "x_mm_model_bounds": 440.0,
+    "y_mm_model_bounds": 380.0,
+    "z_mm_model_bounds": 291.81,
+    "mesh_geometries": 286,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "cnc-6040",
+    "file": "cnc-6040.glb",
+    "x_mm_model_bounds": 700.0,
+    "y_mm_model_bounds": 500.0,
+    "z_mm_model_bounds": 306.21,
+    "mesh_geometries": 281,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "cnc-laser-diode",
+    "file": "cnc-laser-diode.glb",
+    "x_mm_model_bounds": 520.0,
+    "y_mm_model_bounds": 440.0,
+    "z_mm_model_bounds": 270.21,
+    "mesh_geometries": 287,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "laser-co2-50w",
+    "file": "laser-co2-50w.glb",
+    "x_mm_model_bounds": 718.0,
+    "y_mm_model_bounds": 490.0,
+    "z_mm_model_bounds": 320.0,
+    "mesh_geometries": 659,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "laser-diode-10w",
+    "file": "laser-diode-10w.glb",
+    "x_mm_model_bounds": 660.0,
+    "y_mm_model_bounds": 560.0,
+    "z_mm_model_bounds": 167.5,
+    "mesh_geometries": 197,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "laser-fiber-30w",
+    "file": "laser-fiber-30w.glb",
+    "x_mm_model_bounds": 447.5,
+    "y_mm_model_bounds": 290.0,
+    "z_mm_model_bounds": 404.5,
+    "mesh_geometries": 101,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "laser-hybrid",
+    "file": "laser-hybrid.glb",
+    "x_mm_model_bounds": 540.0,
+    "y_mm_model_bounds": 460.0,
+    "z_mm_model_bounds": 167.5,
+    "mesh_geometries": 201,
+    "manufacturer_verified": false
+  },
+  {
+    "id": "laser-uv-5w",
+    "file": "laser-uv-5w.glb",
+    "x_mm_model_bounds": 447.5,
+    "y_mm_model_bounds": 290.0,
+    "z_mm_model_bounds": 404.5,
+    "mesh_geometries": 101,
+    "manufacturer_verified": false
+  }
+]

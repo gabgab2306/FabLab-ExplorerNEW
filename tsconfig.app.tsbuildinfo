@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/MachineScene.tsx","./src/data/catalog.ts","./src/domain/pricing.test.ts","./src/domain/pricing.ts","./src/store/useAppStore.ts"],"errors":true,"version":"5.8.3"}

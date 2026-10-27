@@ -1,0 +1,2610 @@
+{
+  "machine_id": "cnc-4axis",
+  "title": "CNC router with rotary fourth axis",
+  "model_status": "parametric reference assembly; not manufacturer-exact CAD",
+  "notes": "Reference architecture derived from published machine manuals/catalog architecture. Dimensions and unlisted hardware are illustrative; not a verified manufacturer CAD model.",
+  "units": "millimetre-like scene units; verify all dimensions",
+  "parts": [
+    {
+      "part_id": "CNC-4AXIS-0001",
+      "name": "Base longitudinal T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 520.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0002",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0003",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0004",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0005",
+      "name": "Base longitudinal T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 520.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0006",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0007",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0008",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0009",
+      "name": "Base cross T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 400.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0010",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0011",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0012",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0013",
+      "name": "Base cross T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 400.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0014",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0015",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0016",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0017",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0018",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0019",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0020",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0021",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0022",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0023",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0024",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0025",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0026",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0027",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0028",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0029",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0030",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0031",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0032",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0033",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0034",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0035",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0036",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0037",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0038",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0039",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0040",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0041",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0042",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0043",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0044",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0045",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0046",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0047",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0048",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0049",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0050",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0051",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0052",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0053",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0054",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0055",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0056",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0057",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0058",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0059",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0060",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0061",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0062",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0063",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0064",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0065",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0066",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0067",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0068",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0069",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0070",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0071",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0072",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0073",
+      "name": "Bed support plate",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0074",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0075",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0076",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0077",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0078",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0079",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0080",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0081",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0082",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0083",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0084",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0085",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0086",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0087",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0088",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0089",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0090",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0091",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0092",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0093",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0094",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0095",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0096",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0097",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0098",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0099",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0100",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0101",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0102",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0103",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0104",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0105",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0106",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0107",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0108",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0109",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0110",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0111",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0112",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0113",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0114",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0115",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0116",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0117",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0118",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0119",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0120",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0121",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0122",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0123",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0124",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0125",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0126",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0127",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0128",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0129",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0130",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0131",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0132",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0133",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0134",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0135",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0136",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0137",
+      "name": "Y linear guide rail",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Guide shaft/rail; exact profile and diameter variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0138",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0139",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0140",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0141",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0142",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0143",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0144",
+      "name": "Y linear guide rail",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Guide shaft/rail; exact profile and diameter variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0145",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0146",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0147",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0148",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0149",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0150",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0151",
+      "name": "Gantry side plate",
+      "group": "Gantry",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Side plate shape and thickness are reference geometry",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0152",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0153",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0154",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0155",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0156",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0157",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0158",
+      "name": "Gantry side plate",
+      "group": "Gantry",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Side plate shape and thickness are reference geometry",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0159",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0160",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0161",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0162",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0163",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0164",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0165",
+      "name": "X axis gantry extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "40x40 profile representation; cut length 436.8 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0166",
+      "name": "X axis gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0167",
+      "name": "X axis gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0168",
+      "name": "X axis gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0169",
+      "name": "X linear guide",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0170",
+      "name": "X linear guide",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0171",
+      "name": "X leadscrew",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Lead screw/ball screw visual representation; verify architecture",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0172",
+      "name": "X carriage plate",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0173",
+      "name": "X carriage bearing housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0174",
+      "name": "X carriage bearing bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0175",
+      "name": "X carriage bearing bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0176",
+      "name": "X carriage bearing housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0177",
+      "name": "X carriage bearing bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0178",
+      "name": "X carriage bearing bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0179",
+      "name": "Z axis backplate",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0180",
+      "name": "Z guide rod",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0181",
+      "name": "Z guide rod",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0182",
+      "name": "Z leadscrew",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0183",
+      "name": "Z moving carriage",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0184",
+      "name": "Spindle motor body",
+      "group": "Tooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Spindle envelope; wattage/diameter vary by machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0185",
+      "name": "Spindle nose",
+      "group": "Tooling",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0186",
+      "name": "ER collet nut",
+      "group": "Tooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0187",
+      "name": "End mill",
+      "group": "Tooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Illustrative tool geometry; not cutting recommendation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0188",
+      "name": "X stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0189",
+      "name": "X stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0190",
+      "name": "X stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0191",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0192",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0193",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0194",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0195",
+      "name": "Y stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0196",
+      "name": "Y stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0197",
+      "name": "Y stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0198",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0199",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0200",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0201",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0202",
+      "name": "Y stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0203",
+      "name": "Y stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0204",
+      "name": "Y stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0205",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0206",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0207",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0208",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0209",
+      "name": "Z stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0210",
+      "name": "Z stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0211",
+      "name": "Z stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0212",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0213",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0214",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0215",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0216",
+      "name": "Y timing belt",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Timing belt visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0217",
+      "name": "Y timing belt",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Timing belt visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0218",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0219",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0220",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0221",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0222",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0223",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0224",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0225",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0226",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0227",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0228",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0229",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0230",
+      "name": "Controller enclosure",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0231",
+      "name": "Controller PCB",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "pcb",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0232",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0233",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0234",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0235",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0236",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0237",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0238",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0239",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0240",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0241",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0242",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0243",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0244",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0245",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0246",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0247",
+      "name": "Power supply enclosure",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0248",
+      "name": "Emergency stop button",
+      "group": "Controls",
+      "quantity": 1,
+      "material_appearance": "red",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0249",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0250",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0251",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0252",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0253",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0254",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0255",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0256",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0257",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0258",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0259",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0260",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0261",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0262",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0263",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0264",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0265",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0266",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0267",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0268",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0269",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0270",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0271",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0272",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0273",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0274",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0275",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0276",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0277",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0278",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0279",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0280",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0281",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-4AXIS-0282",
+      "name": "Rotary axis body",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Rotary-axis module architecture; vendor-specific dimensions",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0283",
+      "name": "Rotary chuck face",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0284",
+      "name": "Rotary chuck bore",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0285",
+      "name": "Rotary chuck jaw",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0286",
+      "name": "Rotary chuck jaw",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0287",
+      "name": "Rotary chuck jaw",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0288",
+      "name": "Rotary tailstock",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-4AXIS-0289",
+      "name": "Tailstock center",
+      "group": "Rotary 4th axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    }
+  ]
+}

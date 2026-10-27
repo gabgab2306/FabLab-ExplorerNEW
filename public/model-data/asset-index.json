@@ -1,0 +1,90 @@
+[
+  {
+    "id": "cnc-3018",
+    "title": "CNC 3018 desktop router",
+    "glb": "models/cnc-3018.glb",
+    "part_meshes": 284,
+    "bom": "bom/cnc-3018.json",
+    "file_bytes": 220844
+  },
+  {
+    "id": "cnc-4040",
+    "title": "CNC 4040 gantry router",
+    "glb": "models/cnc-4040.glb",
+    "part_meshes": 282,
+    "bom": "bom/cnc-4040.json",
+    "file_bytes": 218288
+  },
+  {
+    "id": "cnc-6040",
+    "title": "CNC 6040 gantry router",
+    "glb": "models/cnc-6040.glb",
+    "part_meshes": 281,
+    "bom": "bom/cnc-6040.json",
+    "file_bytes": 217684
+  },
+  {
+    "id": "cnc-4axis",
+    "title": "CNC router with rotary fourth axis",
+    "glb": "models/cnc-4axis.glb",
+    "part_meshes": 289,
+    "bom": "bom/cnc-4axis.json",
+    "file_bytes": 223712
+  },
+  {
+    "id": "cnc-5axis",
+    "title": "Compact five-axis CNC router concept",
+    "glb": "models/cnc-5axis.glb",
+    "part_meshes": 286,
+    "bom": "bom/cnc-5axis.json",
+    "file_bytes": 222492
+  },
+  {
+    "id": "laser-diode-10w",
+    "title": "Open-frame 10 W diode laser engraver",
+    "glb": "models/laser-diode-10w.glb",
+    "part_meshes": 197,
+    "bom": "bom/laser-diode-10w.json",
+    "file_bytes": 150420
+  },
+  {
+    "id": "laser-co2-50w",
+    "title": "Enclosed 50 W CO2 laser cutter",
+    "glb": "models/laser-co2-50w.glb",
+    "part_meshes": 659,
+    "bom": "bom/laser-co2-50w.json",
+    "file_bytes": 403692
+  },
+  {
+    "id": "laser-fiber-30w",
+    "title": "30 W fiber galvo marking system",
+    "glb": "models/laser-fiber-30w.glb",
+    "part_meshes": 101,
+    "bom": "bom/laser-fiber-30w.json",
+    "file_bytes": 84300
+  },
+  {
+    "id": "laser-uv-5w",
+    "title": "5 W UV galvo marking system",
+    "glb": "models/laser-uv-5w.glb",
+    "part_meshes": 101,
+    "bom": "bom/laser-uv-5w.json",
+    "file_bytes": 84300
+  },
+  {
+    "id": "laser-hybrid",
+    "title": "Conceptual diode plus fiber hybrid",
+    "glb": "models/laser-hybrid.glb",
+    "part_meshes": 201,
+    "bom": "bom/laser-hybrid.json",
+    "file_bytes": 153052
+  },
+  {
+    "id": "cnc-laser-diode",
+    "title": "CNC router with integrated diode laser module",
+    "glb": "models/cnc-laser-diode.glb",
+    "part_meshes": 287,
+    "bom": "bom/cnc-laser-diode.json",
+    "file_bytes": 217836
+  }
+]

@@ -1,0 +1,2 @@
+import {describe,it,expect} from 'vitest';import {lineSubtotal,budgetTotal} from './pricing';
+describe('budget calculations',()=>{it('calculates line subtotal',()=>expect(lineSubtotal(3,25.99)).toBe(77.97));it('adds configured cost categories',()=>expect(budgetTotal(100,10,18,5)).toBe(133));it('rejects negative quantities',()=>expect(()=>lineSubtotal(-1,20)).toThrow());it('rejects invalid total values',()=>expect(()=>budgetTotal(20,NaN,0,0)).toThrow());});

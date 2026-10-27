@@ -1,0 +1,1818 @@
+{
+  "machine_id": "laser-hybrid",
+  "title": "Conceptual diode plus fiber hybrid",
+  "model_status": "parametric reference assembly; not manufacturer-exact CAD",
+  "notes": "Open-frame diode engraver architecture. Profile lengths, fasteners and optical module are variant-specific; screw sizes should not be treated as exact unless source-linked.",
+  "units": "millimetre-like scene units; verify all dimensions",
+  "parts": [
+    {
+      "part_id": "LASER-HYBRID-0001",
+      "name": "Y aluminum profile",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "40x40 profile representation; cut length 500.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0002",
+      "name": "Y aluminum profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0003",
+      "name": "Y aluminum profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0004",
+      "name": "Y aluminum profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0005",
+      "name": "Y aluminum profile",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "40x40 profile representation; cut length 500.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0006",
+      "name": "Y aluminum profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0007",
+      "name": "Y aluminum profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0008",
+      "name": "Y aluminum profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0009",
+      "name": "X end cross profile",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "40x40 profile representation; cut length 420.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0010",
+      "name": "X end cross profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0011",
+      "name": "X end cross profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0012",
+      "name": "X end cross profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0013",
+      "name": "X end cross profile",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "40x40 profile representation; cut length 420.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0014",
+      "name": "X end cross profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0015",
+      "name": "X end cross profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0016",
+      "name": "X end cross profile T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0017",
+      "name": "Corner bracket",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0018",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0019",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0020",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0021",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0022",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0023",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0024",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0025",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0026",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0027",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0028",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0029",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0030",
+      "name": "Corner bracket",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0031",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0032",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0033",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0034",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0035",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0036",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0037",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0038",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0039",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0040",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0041",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0042",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0043",
+      "name": "Corner bracket",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0044",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0045",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0046",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0047",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0048",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0049",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0050",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0051",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0052",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0053",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0054",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0055",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0056",
+      "name": "Corner bracket",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0057",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0058",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0059",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0060",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0061",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0062",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0063",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0064",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0065",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0066",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0067",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0068",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0069",
+      "name": "X gantry extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "40x40 profile representation; cut length 420.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0070",
+      "name": "X gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0071",
+      "name": "X gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0072",
+      "name": "X gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0073",
+      "name": "Gantry end plate",
+      "group": "Gantry",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0074",
+      "name": "Y stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0075",
+      "name": "Y stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0076",
+      "name": "Y stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0077",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0078",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0079",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0080",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0081",
+      "name": "Gantry end plate",
+      "group": "Gantry",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0082",
+      "name": "Y stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0083",
+      "name": "Y stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0084",
+      "name": "Y stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0085",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0086",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0087",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0088",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0089",
+      "name": "Y timing belt",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "GT2 timing belt visual; length varies by frame",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0090",
+      "name": "Y idler pulley",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0091",
+      "name": "Y idler pulley",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0092",
+      "name": "Y timing belt",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "GT2 timing belt visual; length varies by frame",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0093",
+      "name": "Y idler pulley",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0094",
+      "name": "Y idler pulley",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0095",
+      "name": "X stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0096",
+      "name": "X stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0097",
+      "name": "X stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0098",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0099",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0100",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0101",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0102",
+      "name": "X timing belt",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0103",
+      "name": "Laser carriage plate",
+      "group": "Carriage",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0104",
+      "name": "V wheel",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0105",
+      "name": "V wheel",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0106",
+      "name": "V wheel",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0107",
+      "name": "V wheel",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0108",
+      "name": "Diode laser heatsink",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0109",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0110",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0111",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0112",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0113",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0114",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0115",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0116",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0117",
+      "name": "Laser heatsink fin",
+      "group": "Laser module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0118",
+      "name": "Laser optical barrel",
+      "group": "Optics",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0119",
+      "name": "Laser protective nozzle",
+      "group": "Optics",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0120",
+      "name": "Laser driver PCB",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "pcb",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0121",
+      "name": "Driver component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0122",
+      "name": "Driver component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0123",
+      "name": "Driver component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0124",
+      "name": "Driver component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0125",
+      "name": "Driver component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0126",
+      "name": "Controller cover",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0127",
+      "name": "Emergency stop",
+      "group": "Controls",
+      "quantity": 1,
+      "material_appearance": "red",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0128",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0129",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0130",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0131",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0132",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0133",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0134",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0135",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0136",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0137",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0138",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0139",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0140",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0141",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0142",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0143",
+      "name": "Drag chain link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0144",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0145",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0146",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0147",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0148",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0149",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0150",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0151",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0152",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0153",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0154",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0155",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0156",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0157",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0158",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0159",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0160",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0161",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0162",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0163",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0164",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0165",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0166",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0167",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0168",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0169",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0170",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0171",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0172",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0173",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0174",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0175",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0176",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0177",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0178",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0179",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0180",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0181",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0182",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0183",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0184",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0185",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0186",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0187",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0188",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0189",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0190",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0191",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0192",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0193",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0194",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0195",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0196",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-HYBRID-0197",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-HYBRID-0198",
+      "name": "Concept fiber source enclosure",
+      "group": "Conceptual fiber module",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Conceptual module, no verified integration design",
+      "status": "conceptual"
+    },
+    {
+      "part_id": "LASER-HYBRID-0199",
+      "name": "Concept galvo scanner",
+      "group": "Conceptual fiber module",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "conceptual"
+    },
+    {
+      "part_id": "LASER-HYBRID-0200",
+      "name": "Concept F-theta lens",
+      "group": "Conceptual fiber module",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "conceptual"
+    },
+    {
+      "part_id": "LASER-HYBRID-0201",
+      "name": "Module isolation bracket",
+      "group": "Conceptual interface",
+      "quantity": 1,
+      "material_appearance": "orange",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "conceptual"
+    }
+  ]
+}

@@ -1,0 +1,2592 @@
+{
+  "machine_id": "cnc-laser-diode",
+  "title": "CNC router with integrated diode laser module",
+  "model_status": "parametric reference assembly; not manufacturer-exact CAD",
+  "notes": "Reference architecture derived from published machine manuals/catalog architecture. Dimensions and unlisted hardware are illustrative; not a verified manufacturer CAD model.",
+  "units": "millimetre-like scene units; verify all dimensions",
+  "parts": [
+    {
+      "part_id": "CNC-LASER-DIODE-0001",
+      "name": "Base longitudinal T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 500.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0002",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0003",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0004",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0005",
+      "name": "Base longitudinal T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 500.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0006",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0007",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0008",
+      "name": "Base longitudinal T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0009",
+      "name": "Base cross T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 420.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0010",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0011",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0012",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0013",
+      "name": "Base cross T-slot extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "20x20 profile representation; cut length 420.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0014",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0015",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0016",
+      "name": "Base cross T-slot extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0017",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0018",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0019",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0020",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0021",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0022",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0023",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0024",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0025",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0026",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0027",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0028",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0029",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0030",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0031",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0032",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0033",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0034",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0035",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0036",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0037",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0038",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0039",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0040",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0041",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0042",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0043",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0044",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0045",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0046",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0047",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0048",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0049",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0050",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0051",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0052",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0053",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0054",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0055",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0056",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0057",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0058",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0059",
+      "name": "Elastomer leveling foot",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0060",
+      "name": "Frame corner plate",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0061",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0062",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0063",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0064",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0065",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0066",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0067",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0068",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0069",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0070",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0071",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0072",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0073",
+      "name": "Bed support plate",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0074",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0075",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0076",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0077",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0078",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0079",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0080",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0081",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0082",
+      "name": "Worktable T-slot rail",
+      "group": "Work envelope",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "T-slot table rail; spacing is illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0083",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0084",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0085",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0086",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0087",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0088",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0089",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0090",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0091",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0092",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0093",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0094",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0095",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0096",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0097",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0098",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0099",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0100",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0101",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0102",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0103",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0104",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0105",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0106",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0107",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0108",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0109",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0110",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0111",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0112",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0113",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0114",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0115",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0116",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0117",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0118",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0119",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0120",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0121",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0122",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0123",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0124",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0125",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0126",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0127",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0128",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0129",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0130",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0131",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0132",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0133",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0134",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0135",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0136",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0137",
+      "name": "Y linear guide rail",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Guide shaft/rail; exact profile and diameter variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0138",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0139",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0140",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0141",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0142",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0143",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0144",
+      "name": "Y linear guide rail",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Guide shaft/rail; exact profile and diameter variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0145",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0146",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0147",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0148",
+      "name": "Y bearing support housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0149",
+      "name": "Y bearing support bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0150",
+      "name": "Y bearing support bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0151",
+      "name": "Gantry side plate",
+      "group": "Gantry",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Side plate shape and thickness are reference geometry",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0152",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0153",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0154",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0155",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0156",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0157",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0158",
+      "name": "Gantry side plate",
+      "group": "Gantry",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Side plate shape and thickness are reference geometry",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0159",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0160",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0161",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0162",
+      "name": "M5 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0163",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0164",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0165",
+      "name": "X axis gantry extrusion",
+      "group": "Frame",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "40x40 profile representation; cut length 420.0 mm is a design reference",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0166",
+      "name": "X axis gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0167",
+      "name": "X axis gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0168",
+      "name": "X axis gantry extrusion T-slot groove",
+      "group": "Frame detail",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual representation of extrusion T-slot",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0169",
+      "name": "X linear guide",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0170",
+      "name": "X linear guide",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0171",
+      "name": "X leadscrew",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Lead screw/ball screw visual representation; verify architecture",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0172",
+      "name": "X carriage plate",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0173",
+      "name": "X carriage bearing housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0174",
+      "name": "X carriage bearing bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0175",
+      "name": "X carriage bearing bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0176",
+      "name": "X carriage bearing housing",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Bearing block envelope; exact type depends on machine",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0177",
+      "name": "X carriage bearing bearing ring",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Bearing ring visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0178",
+      "name": "X carriage bearing bore",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Through-bore visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0179",
+      "name": "Z axis backplate",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0180",
+      "name": "Z guide rod",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0181",
+      "name": "Z guide rod",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0182",
+      "name": "Z leadscrew",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0183",
+      "name": "Z moving carriage",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0184",
+      "name": "Diode laser heat sink",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0185",
+      "name": "Laser heat sink fin",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0186",
+      "name": "Laser heat sink fin",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0187",
+      "name": "Laser heat sink fin",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0188",
+      "name": "Laser heat sink fin",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0189",
+      "name": "Laser heat sink fin",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0190",
+      "name": "Laser heat sink fin",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0191",
+      "name": "Laser heat sink fin",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0192",
+      "name": "Laser optical barrel",
+      "group": "Laser head",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0193",
+      "name": "Laser warning label",
+      "group": "Labels",
+      "quantity": 1,
+      "material_appearance": "yellow",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0194",
+      "name": "X stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0195",
+      "name": "X stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0196",
+      "name": "X stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0197",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0198",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0199",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0200",
+      "name": "X stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0201",
+      "name": "Y stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0202",
+      "name": "Y stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0203",
+      "name": "Y stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0204",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0205",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0206",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0207",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0208",
+      "name": "Y stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0209",
+      "name": "Y stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0210",
+      "name": "Y stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0211",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0212",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0213",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0214",
+      "name": "Y stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0215",
+      "name": "Z stepper motor motor body",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "NEMA-like stepper visual envelope 42 mm; electrical rating variant-specific",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0216",
+      "name": "Z stepper motor front flange",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Motor front flange, nominal envelope",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0217",
+      "name": "Z stepper motor shaft",
+      "group": "Motion",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Shaft geometry representative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0218",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0219",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0220",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0221",
+      "name": "Z stepper motor flange screw",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual motor flange screw; exact size depends on motor",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0222",
+      "name": "Y timing belt",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Timing belt visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0223",
+      "name": "Y timing belt",
+      "group": "Transmission",
+      "quantity": 1,
+      "material_appearance": "rubber",
+      "specification": "Timing belt visual representation",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0224",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0225",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0226",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0227",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0228",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0229",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0230",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0231",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0232",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0233",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0234",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0235",
+      "name": "Cable carrier link",
+      "group": "Cable management",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0236",
+      "name": "Controller enclosure",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0237",
+      "name": "Controller PCB",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "pcb",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0238",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0239",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0240",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0241",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0242",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0243",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0244",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0245",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0246",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0247",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0248",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0249",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0250",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0251",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0252",
+      "name": "PCB component",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0253",
+      "name": "Power supply enclosure",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0254",
+      "name": "Emergency stop button",
+      "group": "Controls",
+      "quantity": 1,
+      "material_appearance": "red",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0255",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0256",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0257",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0258",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0259",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0260",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0261",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0262",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0263",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0264",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0265",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0266",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0267",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0268",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0269",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0270",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0271",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0272",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0273",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0274",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0275",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0276",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0277",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0278",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0279",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0280",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0281",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0282",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0283",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0284",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0285",
+      "name": "M5 bolt shank L8",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 8 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0286",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "CNC-LASER-DIODE-0287",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    }
+  ]
+}

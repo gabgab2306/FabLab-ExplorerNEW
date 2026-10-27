@@ -1,0 +1,918 @@
+{
+  "machine_id": "laser-uv-5w",
+  "title": "5 W UV galvo marking system",
+  "model_status": "parametric reference assembly; not manufacturer-exact CAD",
+  "notes": "Galvo marker reference assembly. Exact source, galvo head, lens, column, chiller and enclosure depend on manufacturer; internal optics represented only at assembly level.",
+  "units": "millimetre-like scene units; verify all dimensions",
+  "parts": [
+    {
+      "part_id": "LASER-UV-5W-0001",
+      "name": "Base enclosure",
+      "group": "Structure",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0002",
+      "name": "Base front control panel",
+      "group": "Controls",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0003",
+      "name": "Panel pushbutton",
+      "group": "Controls",
+      "quantity": 1,
+      "material_appearance": "green",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0004",
+      "name": "Panel pushbutton",
+      "group": "Controls",
+      "quantity": 1,
+      "material_appearance": "yellow",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0005",
+      "name": "Panel pushbutton",
+      "group": "Controls",
+      "quantity": 1,
+      "material_appearance": "red",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0006",
+      "name": "Vertical lifting column",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0007",
+      "name": "Column front guide",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0008",
+      "name": "Z lead screw",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0009",
+      "name": "Focus adjustment handwheel",
+      "group": "Z axis",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0010",
+      "name": "Head support arm",
+      "group": "Head mount",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0011",
+      "name": "Galvo scanner housing",
+      "group": "Optics",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0012",
+      "name": "Galvo connector cover",
+      "group": "Optics",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0013",
+      "name": "F-theta lens barrel",
+      "group": "Optics",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0014",
+      "name": "F-theta lens retaining ring",
+      "group": "Optics",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0015",
+      "name": "Optical aperture",
+      "group": "Optics",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0016",
+      "name": "Work platform",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0017",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0018",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0019",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0020",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0021",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0022",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0023",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0024",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0025",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0026",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0027",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0028",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0029",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0030",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0031",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0032",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0033",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0034",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0035",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0036",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0037",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0038",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0039",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0040",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0041",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0042",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0043",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0044",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0045",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0046",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0047",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0048",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0049",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0050",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0051",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0052",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0053",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0054",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0055",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0056",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0057",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0058",
+      "name": "M6 workholding tapped hole",
+      "group": "Work area",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Illustrative workholding hole pattern; verify table drawing",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0059",
+      "name": "Laser source enclosure",
+      "group": "Laser source",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0060",
+      "name": "Source status label",
+      "group": "Labels",
+      "quantity": 1,
+      "material_appearance": "label",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0061",
+      "name": "Controller enclosure",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0062",
+      "name": "Control PCB",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "pcb",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0063",
+      "name": "PCB connector",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "white",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0064",
+      "name": "PCB connector",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "white",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0065",
+      "name": "PCB connector",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "white",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0066",
+      "name": "PCB connector",
+      "group": "Electrical",
+      "quantity": 1,
+      "material_appearance": "white",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0067",
+      "name": "Water chiller cabinet",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0068",
+      "name": "Chiller grille",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "black",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0069",
+      "name": "Chiller grille slat",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0070",
+      "name": "Chiller grille slat",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0071",
+      "name": "Chiller grille slat",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0072",
+      "name": "Chiller grille slat",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0073",
+      "name": "Chiller grille slat",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0074",
+      "name": "Chiller grille slat",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0075",
+      "name": "Chiller grille slat",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0076",
+      "name": "Coolant inlet",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "copper",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0077",
+      "name": "Coolant outlet",
+      "group": "Cooling",
+      "quantity": 1,
+      "material_appearance": "blue",
+      "specification": "Representative geometry; verify against selected machine variant",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0078",
+      "name": "M6 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M6 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0079",
+      "name": "M6 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M6; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0080",
+      "name": "M6 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0081",
+      "name": "M6 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M6 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0082",
+      "name": "M6 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M6; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0083",
+      "name": "M6 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0084",
+      "name": "M6 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M6 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0085",
+      "name": "M6 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M6; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0086",
+      "name": "M6 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0087",
+      "name": "M6 bolt shank L12",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M6 representative shank, length 12 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0088",
+      "name": "M6 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M6; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0089",
+      "name": "M6 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0090",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0091",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0092",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0093",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0094",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0095",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0096",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0097",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0098",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    },
+    {
+      "part_id": "LASER-UV-5W-0099",
+      "name": "M5 bolt shank L10",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "steel",
+      "specification": "M5 representative shank, length 10 mm; verify thread/pitch and actual length",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0100",
+      "name": "M5 socket head",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "anodized",
+      "specification": "Hex-socket cap-head appearance, nominal M5; dimensions illustrative",
+      "status": "representative"
+    },
+    {
+      "part_id": "LASER-UV-5W-0101",
+      "name": "M5 socket recess",
+      "group": "Fasteners",
+      "quantity": 1,
+      "material_appearance": "dark",
+      "specification": "Visual socket recess",
+      "status": "visual-detail"
+    }
+  ]
+}
